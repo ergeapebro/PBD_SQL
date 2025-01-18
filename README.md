@@ -1,2 +1,2 @@
-# Retail-SQL-PBD
- SQL DB retail PBD
+# SQL-PBD
+ SQL PBD
